@@ -1,3 +1,3 @@
 ## rsschool-cv
 
-[MehmetAlpergun-CV](https://Mehmet-Alpergun.github.io/rsschool-cv/cv)
+[MehmetAlpergun-CV](https://mehmet-alpergun.github.io/rsschool-cv/cv)
